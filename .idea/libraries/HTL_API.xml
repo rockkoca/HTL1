@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="HTL_API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/HTL_API.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HTLProceduralAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/HTLProceduralAPI.jar!/" />
+    </SOURCES>
+  </library>
+</component>
