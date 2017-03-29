@@ -23,7 +23,7 @@ public class Sample extends HTLProceduralAPI {
             addPathLeftRight(i, 5);
         }
 
-        // set the start and the path for walkers
+        // set the start and end path for walkers
         preparePathForWalkers(0, 5, 19, 5);
     }
 
